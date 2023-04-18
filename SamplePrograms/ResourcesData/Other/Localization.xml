@@ -1,0 +1,158 @@
+﻿<Localization>
+	<Key Name="Home">
+		<Translations>
+			<English>Home</English>
+			<Russian>Домашняя Страница</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Square">
+		<Translations>
+			<English>Square</English>
+			<Russian>Квадрат</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Circle">
+		<Translations>
+			<English>Circle</English>
+			<Russian>Круг</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Settings">
+		<Translations>
+			<English>Settings</English>
+			<Russian>Настройки</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Template_Button_Square">
+		<Translations>
+			<English>  Square</English>
+			<Russian>  Квадрат</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Template_Button_Circle">
+		<Translations>
+			<English>  Circle</English>
+			<Russian>  Круг</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Template_Button_Settings">
+		<Translations>
+			<English>  Settings</English>
+			<Russian>  Настройки</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Template_Button_LanguageSwitcher">
+		<Translations>
+			<English>  English</English>
+			<Russian>  Русский</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_GroupBox_ProgramUpdate">
+		<Translations>
+			<English>Program Update</English>
+			<Russian>Обновление Программы</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_Label_UpdateStatus_NoGitHubConnection">
+		<Translations>
+			<English>♦ No GitHub Connection</English>
+			<Russian>♦ Нет Подключения к GitHub</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_Label_UpdateStatus_ProgramNoLongerSupported">
+		<Translations>
+			<English>♦ Program no Longer Supported</English>
+			<Russian>♦ Программа Больше не Поддерживается</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_Label_UpdateStatus_YouUsingLatestVersionProgram">
+		<Translations>
+			<English>♦ You Using Latest Version Program</English>
+			<Russian>♦ Вы Используете Последнюю Версию Программы</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_Label_UpdateStatus_ProgramUpdateAvailable">
+		<Translations>
+			<English>♦ Program Update Available</English>
+			<Russian>♦ Доступно Обновление Программы</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_Label_UpdateStatus_DownloadingUpdate">
+		<Translations>
+			<English>♦ Downloading Update...</English>
+			<Russian>♦ Загрузка Обновления...</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_Label_ChangeLog">
+		<Translations>
+			<English>♦ Change Log in Updated Version</English>
+			<Russian>♦ Список Изменений в Обновлённой Версии</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_HtmlLabel_Content_FailedToLoadChangeLog">
+		<Translations>
+			<English>• Failed to Load Change Log</English>
+			<Russian>• Не Удалось Загрузить Список Изменений</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Home_Button_DownloadAndRun">
+		<Translations>
+			<English>Download and Run</English>
+			<Russian>Скачать и Запустить</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Square_Label_Delete">
+		<Translations>
+			<English>Square</English>
+			<Russian>Квадрат</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Circle_Label_Delete">
+		<Translations>
+			<English>Circle</English>
+			<Russian>Круг</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Settings_Label_SavePath">
+		<Translations>
+			<English>Save Path -</English>
+			<Russian>Путь до Сохранения -</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Settings_SaveFileDialog_SavePath_Title">
+		<Translations>
+			<English>Save Path</English>
+			<Russian>Путь до Сохранения</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Settings_SaveFileDialog_SavePath_Filter">
+		<Translations>
+			<English>JSON File|*.json</English>
+			<Russian>JSON Файл|*.json</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Settings_GroupBox_AutoProgramUpdates">
+		<Translations>
+			<English>Auto Program Updates</English>
+			<Russian>Автоматическое Обновление Программы</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Settings_RadioButton_Enable">
+		<Translations>
+			<English>Enable</English>
+			<Russian>Включить</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Settings_RadioButton_Disable">
+		<Translations>
+			<English>Disable</English>
+			<Russian>Выключить</Russian>
+		</Translations>
+	</Key>
+	<Key Name="Settings_Button_DeleteSavedProgramFiles">
+		<Translations>
+			<English>Delete Saved Program Files</English>
+			<Russian>Удалить Сохранённые Программные Файлы</Russian>
+		</Translations>
+	</Key>
+</Localization>
