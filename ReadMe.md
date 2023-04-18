@@ -48,7 +48,7 @@
 
 ## ♦ Downloading
 
-• Go to the [Releases Page](https://github.com/SoDeRMond/SamplePrograms/Releases) to Download the Compiled Application
+• Go to the [Releases Page](https://github.com/SoDeRMond/SamplePrograms/releases) to Download the Compiled Application
 
 ***
 
