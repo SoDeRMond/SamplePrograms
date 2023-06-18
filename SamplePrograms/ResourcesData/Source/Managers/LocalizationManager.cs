@@ -1,4 +1,4 @@
-﻿using SamplePrograms.ResourcesData.Source.Core;
+﻿using SamplePrograms.ResourcesData.Source.Root;
 
 namespace SamplePrograms.ResourcesData.Source.Managers
 {

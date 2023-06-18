@@ -4,7 +4,7 @@ using SamplePrograms.ResourcesData.Source.Controllers;
 using SamplePrograms.ResourcesData.Source.Managers;
 using SamplePrograms.ResourcesData.Source.Data;
 
-namespace SamplePrograms.ResourcesData.Source.Core
+namespace SamplePrograms.ResourcesData.Source.Root
 {
 	public static class Classes
 	{

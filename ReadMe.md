@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="SamplePrograms/ResourcesData/Icons/Application/Icon.ico" />
+	<img src="SamplePrograms/ResourcesData/Icons/Application/Icon.ico">
 	<h1>Sample Programs</h1>
 </div>
 
@@ -20,7 +20,7 @@
 ***
 
 <div align="center">
-	<img src="SamplePrograms/ResourcesData/Gif/Preview.gif" />
+	<img src="SamplePrograms/ResourcesData/Gif/Preview.gif">
 </div>
 
 ***

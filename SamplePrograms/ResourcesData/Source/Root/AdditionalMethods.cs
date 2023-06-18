@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Net;
 
-namespace SamplePrograms.ResourcesData.Source.Core
+namespace SamplePrograms.ResourcesData.Source.Root
 {
 	public class AdditionalMethods
 	{

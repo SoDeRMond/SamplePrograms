@@ -1,4 +1,4 @@
-﻿using SamplePrograms.ResourcesData.Source.Core;
+﻿using SamplePrograms.ResourcesData.Source.Root;
 using SamplePrograms.ResourcesData.Forms;
 using SamplePrograms.Properties;
 using System.Runtime.InteropServices;

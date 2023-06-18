@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace SamplePrograms.ResourcesData.Source.Core
+namespace SamplePrograms.ResourcesData.Source.Root
 {
 	public class Colors
 	{

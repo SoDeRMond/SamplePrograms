@@ -1,4 +1,4 @@
-﻿using SamplePrograms.ResourcesData.Source.Core;
+﻿using SamplePrograms.ResourcesData.Source.Root;
 using System.Windows.Forms;
 
 namespace SamplePrograms.ResourcesData.Source.Controllers.Localization
