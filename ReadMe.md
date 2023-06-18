@@ -49,6 +49,8 @@
 ## ♦ Downloading
 
 • Go to the [Releases Page](https://github.com/SoDeRMond/SamplePrograms/releases) to Download the Archive
+<br>• Extract the Archive to Your Desktop
+<br>• Run Sample Programs.exe
 
 ***
 
