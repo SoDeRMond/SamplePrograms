@@ -12,9 +12,9 @@
 <br>
 
 <div align="center">
-	<a href="#♦-functions">Functions</a> •
-	<a href="#♦-downloading">Downloading</a> •
-	<a href="#♦-license">License</a>
+	<a href="#-functions">Functions</a> •
+	<a href="#-downloading">Downloading</a> •
+	<a href="#-license">License</a>
 </div>
 
 ***
@@ -48,7 +48,7 @@
 
 ## ♦ Downloading
 
-• Go to the [Releases Page](https://github.com/SoDeRMond/SamplePrograms/Releases) to Download the Compiled Application
+• Go to the [Releases Page](https://github.com/SoDeRMond/SamplePrograms/releases) to Download the Archive
 
 ***
 
