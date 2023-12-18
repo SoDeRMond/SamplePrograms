@@ -175,7 +175,6 @@
 		</BootstrapperPackage>
 	</ItemGroup>
 	<ItemGroup>
-		<Content Include="ResourcesData\Gif\Preview.gif" />
 		<Content Include="ResourcesData\Icons\Application\Icon.ico" />
 		<Content Include="ResourcesData\Icons\Tabs\Colored\Square_Colored.png" />
 		<Content Include="ResourcesData\Icons\Tabs\Colored\Circle_Colored.png" />
