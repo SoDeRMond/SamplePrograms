@@ -1,158 +1,158 @@
-﻿<Localization>
-	<Key Name="Home">
-		<Translations>
-			<English>Home</English>
-			<Russian>Домашняя Страница</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Square">
-		<Translations>
-			<English>Square</English>
-			<Russian>Квадрат</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Circle">
-		<Translations>
-			<English>Circle</English>
-			<Russian>Круг</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Settings">
-		<Translations>
-			<English>Settings</English>
-			<Russian>Настройки</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Template_Button_Square">
-		<Translations>
-			<English>  Square</English>
-			<Russian>  Квадрат</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Template_Button_Circle">
-		<Translations>
-			<English>  Circle</English>
-			<Russian>  Круг</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Template_Button_Settings">
-		<Translations>
-			<English>  Settings</English>
-			<Russian>  Настройки</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Template_Button_LanguageSwitcher">
-		<Translations>
-			<English>  English</English>
-			<Russian>  Русский</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_GroupBox_ProgramUpdate">
-		<Translations>
-			<English>Program Update</English>
-			<Russian>Обновление Программы</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_Label_UpdateStatus_NoGitHubConnection">
-		<Translations>
-			<English>♦ No GitHub Connection</English>
-			<Russian>♦ Нет Подключения к GitHub</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_Label_UpdateStatus_FailedGetLatestVersion">
-		<Translations>
-			<English>♦ Failed to Get Latest Version</English>
-			<Russian>♦ Не Удалось Получить Последнюю Версию</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_Label_UpdateStatus_YouUsingLatestVersionProgram">
-		<Translations>
-			<English>♦ You Using Latest Version Program</English>
-			<Russian>♦ Вы Используете Последнюю Версию Программы</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_Label_UpdateStatus_ProgramUpdateAvailable">
-		<Translations>
-			<English>♦ Program Update Available</English>
-			<Russian>♦ Доступно Обновление Программы</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_Label_UpdateStatus_DownloadingUpdate">
-		<Translations>
-			<English>♦ Downloading Update...</English>
-			<Russian>♦ Загрузка Обновления...</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_Label_ChangeLog">
-		<Translations>
-			<English>♦ Change Log in Updated Version</English>
-			<Russian>♦ Список Изменений в Обновлённой Версии</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_HtmlLabel_Content_FailedToLoadChangeLog">
-		<Translations>
-			<English>• Failed to Load Change Log</English>
-			<Russian>• Не Удалось Загрузить Список Изменений</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Home_Button_DownloadAndRun">
-		<Translations>
-			<English>Download and Run</English>
-			<Russian>Скачать и Запустить</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Square_Label_Delete">
-		<Translations>
-			<English>Square</English>
-			<Russian>Квадрат</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Circle_Label_Delete">
-		<Translations>
-			<English>Circle</English>
-			<Russian>Круг</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Settings_Label_SavePath">
-		<Translations>
-			<English>Save Path -</English>
-			<Russian>Путь до Сохранения -</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Settings_SaveFileDialog_SavePath_Title">
-		<Translations>
-			<English>Save Path</English>
-			<Russian>Путь до Сохранения</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Settings_SaveFileDialog_SavePath_Filter">
-		<Translations>
-			<English>JSON File|*.json</English>
-			<Russian>JSON Файл|*.json</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Settings_GroupBox_AutoProgramUpdates">
-		<Translations>
-			<English>Auto Program Updates</English>
-			<Russian>Автоматическое Обновление Программы</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Settings_RadioButton_Enable">
-		<Translations>
-			<English>Enable</English>
-			<Russian>Включить</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Settings_RadioButton_Disable">
-		<Translations>
-			<English>Disable</English>
-			<Russian>Выключить</Russian>
-		</Translations>
-	</Key>
-	<Key Name="Settings_Button_DeleteSavedProgramFiles">
-		<Translations>
-			<English>Delete Saved Program Files</English>
-			<Russian>Удалить Сохранённые Программные Файлы</Russian>
-		</Translations>
-	</Key>
-</Localization>
+﻿<localization>
+	<key name="Home">
+		<translations>
+			<english>Home</english>
+			<russian>Домашняя Страница</russian>
+		</translations>
+	</key>
+	<key name="Square">
+		<translations>
+			<english>Square</english>
+			<russian>Квадрат</russian>
+		</translations>
+	</key>
+	<key name="Circle">
+		<translations>
+			<english>Circle</english>
+			<russian>Круг</russian>
+		</translations>
+	</key>
+	<key name="Settings">
+		<translations>
+			<english>Settings</english>
+			<russian>Настройки</russian>
+		</translations>
+	</key>
+	<key name="Template_Button_Square">
+		<translations>
+			<english>  Square</english>
+			<russian>  Квадрат</russian>
+		</translations>
+	</key>
+	<key name="Template_Button_Circle">
+		<translations>
+			<english>  Circle</english>
+			<russian>  Круг</russian>
+		</translations>
+	</key>
+	<key name="Template_Button_Settings">
+		<translations>
+			<english>  Settings</english>
+			<russian>  Настройки</russian>
+		</translations>
+	</key>
+	<key name="Template_Button_LanguageSwitcher">
+		<translations>
+			<english>  English</english>
+			<russian>  Русский</russian>
+		</translations>
+	</key>
+	<key name="Home_GroupBox_ProgramUpdate">
+		<translations>
+			<english>Program Update</english>
+			<russian>Обновление Программы</russian>
+		</translations>
+	</key>
+	<key name="Home_Label_UpdateStatus_NoGitHubConnection">
+		<translations>
+			<english>♦ No GitHub Connection</english>
+			<russian>♦ Нет Подключения к GitHub</russian>
+		</translations>
+	</key>
+	<key name="Home_Label_UpdateStatus_FailedGetLatestVersion">
+		<translations>
+			<english>♦ Failed to Get Latest Version</english>
+			<russian>♦ Не Удалось Получить Последнюю Версию</russian>
+		</translations>
+	</key>
+	<key name="Home_Label_UpdateStatus_YouUsingLatestVersionProgram">
+		<translations>
+			<english>♦ You Using Latest Version Program</english>
+			<russian>♦ Вы Используете Последнюю Версию Программы</russian>
+		</translations>
+	</key>
+	<key name="Home_Label_UpdateStatus_ProgramUpdateAvailable">
+		<translations>
+			<english>♦ Program Update Available</english>
+			<russian>♦ Доступно Обновление Программы</russian>
+		</translations>
+	</key>
+	<key name="Home_Label_UpdateStatus_DownloadingUpdate">
+		<translations>
+			<english>♦ Downloading Update...</english>
+			<russian>♦ Загрузка Обновления...</russian>
+		</translations>
+	</key>
+	<key name="Home_Label_ChangeLog">
+		<translations>
+			<english>♦ Change Log in Updated Version</english>
+			<russian>♦ Список Изменений в Обновлённой Версии</russian>
+		</translations>
+	</key>
+	<key name="Home_HtmlLabel_Content_FailedToLoadChangeLog">
+		<translations>
+			<english>• Failed to Load Change Log</english>
+			<russian>• Не Удалось Загрузить Список Изменений</russian>
+		</translations>
+	</key>
+	<key name="Home_Button_DownloadAndRun">
+		<translations>
+			<english>Download and Run</english>
+			<russian>Скачать и Запустить</russian>
+		</translations>
+	</key>
+	<key name="Square_Label_Delete">
+		<translations>
+			<english>Square</english>
+			<russian>Квадрат</russian>
+		</translations>
+	</key>
+	<key name="Circle_Label_Delete">
+		<translations>
+			<english>Circle</english>
+			<russian>Круг</russian>
+		</translations>
+	</key>
+	<key name="Settings_Label_SavePath">
+		<translations>
+			<english>Save Path -</english>
+			<russian>Путь до Сохранения -</russian>
+		</translations>
+	</key>
+	<key name="Settings_SaveFileDialog_SavePath_Title">
+		<translations>
+			<english>Save Path</english>
+			<russian>Путь до Сохранения</russian>
+		</translations>
+	</key>
+	<key name="Settings_SaveFileDialog_SavePath_Filter">
+		<translations>
+			<english>JSON File|*.json</english>
+			<russian>JSON Файл|*.json</russian>
+		</translations>
+	</key>
+	<key name="Settings_GroupBox_AutoProgramUpdates">
+		<translations>
+			<english>Auto Program Updates</english>
+			<russian>Автоматическое Обновление Программы</russian>
+		</translations>
+	</key>
+	<key name="Settings_RadioButton_Enable">
+		<translations>
+			<english>Enable</english>
+			<russian>Включить</russian>
+		</translations>
+	</key>
+	<key name="Settings_RadioButton_Disable">
+		<translations>
+			<english>Disable</english>
+			<russian>Выключить</russian>
+		</translations>
+	</key>
+	<key name="Settings_Button_DeleteSavedProgramFiles">
+		<translations>
+			<english>Delete Saved Program Files</english>
+			<russian>Удалить Сохранённые Программные Файлы</russian>
+		</translations>
+	</key>
+</localization>
