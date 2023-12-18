@@ -1,12 +1,12 @@
 <div align="center">
-	<img src="SamplePrograms/ResourcesData/Icons/Application/Icon.ico">
+	<img src="SamplePrograms/ResourcesData/Icons/Application/Icon.ico" alt="Icon">
 	<h1>Sample Programs</h1>
 </div>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/.NET Framework-4.8-blue?style=for-the-badge">
-	<img src="https://img.shields.io/badge/Windows-10-darkorange?style=for-the-badge">
-	<img src="https://img.shields.io/badge/License-GPL--3.0-orange?style=for-the-badge">
+	<img src="https://img.shields.io/badge/.NET Framework-4.8-blue?style=for-the-badge" alt=".NET Framework 4.8">
+	<img src="https://img.shields.io/badge/Windows-10-darkorange?style=for-the-badge" alt="Windows 10">
+	<img src="https://img.shields.io/badge/License-GPL--3.0-orange?style=for-the-badge" alt="License GPL-3.0">
 </div>
 
 <br>
@@ -17,13 +17,17 @@
 	<a href="#-license">License</a>
 </div>
 
+
 ***
+
 
 <div align="center">
-	<img src="Preview.gif">
+	<img src="Preview.gif" alt="Preview">
 </div>
 
+
 ***
+
 
 ## ♦ Functions
 
@@ -40,7 +44,9 @@
 	- Button to Deleting Saved Program Files
 - Button to Switching Languages
 
+
 ***
+
 
 ## ♦ Downloading
 
@@ -48,7 +54,9 @@
 <br>• Extract the Archive to Your Desktop
 <br>• Run Sample Programs.exe
 
+
 ***
+
 
 ## ♦ License
 
